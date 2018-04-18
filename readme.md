@@ -2,6 +2,10 @@
 
 This repo contains code and a Jupyter Notebook for a talk I gave at NebraskaCode 2018 on Python Decorators
 
+I also wrote a blog post based on this talk here: 
+
+- Python: All About Decorators - https://www.blog.pythonlibrary.org/2017/07/18/python-all-about-decorators/
+
 For more information on Python Decorators, check out the following:
 
 - Primer on Python Decorators - https://realpython.com/blog/python/primer-on-python-decorators/
